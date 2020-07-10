@@ -1,0 +1,15 @@
+{
+  "name": "constructnode",
+  "version": "0.1.0",
+  "description": "Construct a node package assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Farley",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
